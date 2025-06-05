@@ -1,0 +1,45 @@
+body{
+    background-color: rgb(31, 30, 30);
+}
+
+.contenedor{
+    color: white;
+    text-align: center;
+}
+
+a{
+    text-decoration: none;
+    transition: 0.8s;
+
+}
+
+a:hover{
+    text-decoration: underline;
+}
+
+a:visited{
+    color: wheat;
+}
+
+.header{
+    color: wheat;
+    text-align: center;
+    align-items: center;
+    margin: 0 auto;
+    font-size: 30px;
+    width: 400px;
+    box-sizing: border-box;
+
+}
+
+.header_text > a{
+    color: wheat;
+}
+
+.titulo_index{
+    text-align: center;
+    margin-top: 65px;
+}
+
+
+

@@ -1,27 +1,27 @@
-body{
+body{ /* Total de la página */
     background-color: rgb(31, 30, 30);
 }
 
-.contenedor{
+.contenedor{ /* Contiene algunos elementos en index.html */
     color: white;
     text-align: center;
 }
 
-a{
+a{ /* Parametros de los enlaces */
     text-decoration: none;
     transition: 0.8s;
 
 }
 
 a:hover{
-    text-decoration: underline;
+    text-decoration: underline; /* Cuando pasas por el enlace se pone el estilo underline *una raya abajo* */
 }
 
-a:visited{
+a:visited{ /* Cuando visitas la página se pone el color siguiente */
     color: wheat;
 }
 
-.header{
+.header{ /* Header de index.html */
     color: wheat;
     text-align: center;
     align-items: center;
@@ -32,14 +32,15 @@ a:visited{
 
 }
 
-.header_text > a{
+.header_text > a{ /* Header de la web index.html para los enlaces */
     color: wheat;
 }
 
-.titulo_index{
+.titulo_index{ /* Titulo de index.html */
     text-align: center;
     margin-top: 65px;
 }
 
-
-
+.parrafo_inicio{
+    font-size: 18px;
+}

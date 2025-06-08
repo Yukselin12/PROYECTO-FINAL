@@ -63,7 +63,7 @@ a:visited{ /* Cuando visitas la página se pone el color siguiente */
 
 .article{
     border: 1px solid black;
-    width: 500px;
+    width: 550px;
     margin-left: 0px;
     margin-top: 100px;
     background-color: rgb(49, 49, 49);
